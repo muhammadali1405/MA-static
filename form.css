@@ -6,7 +6,7 @@
     margin: 0px;
 }
 .box1{
-    width: 50%;
+    width: 674px;
     height: 100px;
     background: rgb(197, 197, 197);
     float: left;
@@ -16,7 +16,7 @@
 }
 
 .box2{
-    width: 50%;
+    width: 674px;
     height: 100px;
     background: rgb(185, 185, 185);
     margin-top: 250px;    border-radius: 50px;
