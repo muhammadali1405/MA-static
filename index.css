@@ -1,5 +1,5 @@
 .header{
-    width: 1600px;
+    width: 1349px;
     height: 100px;
     background: rgb(40, 64, 173);
 }
@@ -99,7 +99,7 @@ body{
 }
 .other{
     background: rgb(0, 0, 0);
-    width: 1349px;
+    width: 1349;
     height: 1050px;
     margin-top: 750px;
 }
