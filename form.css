@@ -67,4 +67,6 @@
 
 body{
 background-image: url("bg.jpg");
+width: 1250px;
+height: 500px;
 }
