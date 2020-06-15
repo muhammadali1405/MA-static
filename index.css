@@ -3,13 +3,11 @@
         height: 100px;
     background: rgb(40, 64, 173);
 }
-.left{
-    width: 350px;
-    float: left;
-    height:450px;
-}
+
+
 .right{
-    width: 850px;
+    padding-left: 250px;
+    width: 1250px;
     float: left;
     height:450px;
   
@@ -40,7 +38,7 @@ body{
 
 }
 .intro{
-    padding-left: 28%;
+    padding-left: 350px;
     padding-top: 61px;
     font-size: 50px;
     font-family: monospace;
@@ -50,10 +48,15 @@ body{
 .tree{
     margin-left:-5%;
     padding: 0;
-    width: 80%;
+    width: 1000px;
     height: 50px;
     position: relative;
     top: 0;left: 0;
+}
+.content{
+    float: left;
+    margin-left: 300px;
+    
 }
 
 .contact{
@@ -74,7 +77,7 @@ body{
 .coconut{
     width: 550px;
     margin-top: 150px;
-    margin-left: 42%;    position: absolute ;
+    margin-left: 500px;    position: absolute ;
     opacity: 80%;
 }
 #pic{
