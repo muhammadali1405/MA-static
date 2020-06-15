@@ -25,19 +25,22 @@ body{
 }
 .topleft{
     font-weight: bold;
-    margin-left: 545px;
+    margin-left: 40%;
     padding-top: 50px;
     color: rgb(255, 255, 255);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
 }
+.topright{
+    background: #ffffff;
+    padding-left: 80%;}
 body{
     font-family: tahoma;
     
 
 }
 .intro{
-    padding-left: 385px;
+    padding-left: 28%;
     padding-top: 61px;
     font-size: 50px;
     font-family: monospace;
@@ -45,16 +48,14 @@ body{
     
 }
 .tree{
-    margin-left: -70px;
+    margin-left:-5%;
     padding: 0;
-    width: 1079px;
+    width: 80%;
     height: 50px;
     position: relative;
     top: 0;left: 0;
 }
-.topright{
-    background: #ffffff;
-    padding-left: 80%;}
+
 .contact{
     background-color: #0c962f;
   border: none;
